@@ -1,3 +1,3 @@
 # ShiningStarLibrary
-shiningstarlibrary
-A personal use of the Android Code Library.
+
+A base code library MVP project framework,to help person code more easy.
