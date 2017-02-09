@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  * @author  Aloha
  * @version 2015-10-22 下午3:54:34
- * @explain 活动管理器 ////...
+ * @explain 活动管理器 ////.....
  */
 public class ActivityCollector {
 
